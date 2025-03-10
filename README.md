@@ -1,2 +1,2 @@
-# IBM-Course-Reo1
+# IBM-Course-Repo1
 First repo in IBM Course
